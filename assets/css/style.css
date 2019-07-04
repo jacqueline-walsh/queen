@@ -1,3 +1,5 @@
+@import url("hover-min.css");
+
 /*----------------------- General formating */
 
 * {
@@ -12,7 +14,10 @@ body, html {
 
 nav {
   z-index: 2;
-  margin-top: 20px;
+}
+
+.bg-dark {
+  background-color: rgba(52, 58, 64, .4) !important;
 }
 
 nav li {
@@ -25,8 +30,14 @@ nav li a {
   text-transform: uppercase;
   letter-spacing: .3rem;
   color: #fff;
+  transition: all .5s ease-in-out
 }
 
+nav li a:hover,
+nav li a:focus,
+nav li a:active {
+    transform: scale(1.1);
+}
 /*----------------------- video header */
 .v-header {
   height: 95vh;
