@@ -29,6 +29,7 @@
             </ul>
         </div>
     </nav>
+
    <!--  header video background -->
     <header class="v-header container">
       <div class="fullscreen-video-wrap">
@@ -36,9 +37,14 @@
       </div>
       <div class="header-overlay"></div>
       <div class="header-content">
-          <img src="assets/images/queen-logo.png" class="img-responsive" alt="queen-logo" width="100%"/>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ad saepe laudantium minima, ex architecto consequuntur explicabo sapiente doloribus eveniet consequatur!</p>
-          <a href="" class="btn border">Book Now!</a>
+        <img src="assets/images/queen-logo.png" class="img-responsive" alt="queen-logo" width="100%"/>
+        <p>Rocking the nation since 1970<br/>With over 200 million record sales creating worldwide recognition<br/>  
+          The British rock band that experienced the full meaning of the ”rock ages” in the ’80s and is still going!</p>
+
+        <!-- Button trigger modal -->
+        <button type="button" class="btn border" data-toggle="modal" data-target="#myModal">
+            Book Now!
+        </button>          
       </div>
     </header>
     <!--  Sections for -->
@@ -78,24 +84,52 @@
               </p>
             </section>  
 
-            <div class="pimg3">
-                <div class="ptext">
-                  <span class="border trans">
-                      Signup for latest news!
-                  </span>
-                </div>
-              </div>    
-              <section class="section section-dark">
+            <section class="section section-dark">
+                <h2 id="subscribe">Subscribe</h2>
+                <p>
+                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores voluptatum non magni sint libero ipsam minus quidem voluptate, necessitatibus dolorem ratione harum facere nam deserunt ipsum illo repellat repellendus molestiae fugit quam id in quaerat aperiam! Porro culpa veritatis consectetur tempore placeat commodi aut. Error fuga numquam autem! Culpa quasi at quae aperiam quos corporis dolores quisquam cupiditate, consequuntur accusamus mollitia eius itaque quam laudantium id consequatur illum, et perspiciatis. Minus cum porro repellendus distinctio sed natus veritatis praesentium quasi, quos atque aspernatur asperiores, maxime eligendi consequatur quisquam optio fuga quis quod eveniet, vel cupiditate rem! Nam architecto inventore nisi.
+                </p>
+              </section>     
+              <section class="section section-light">
                 <h2 id="video">Video</h2>
                 <p>
                   Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores voluptatum non magni sint libero ipsam minus quidem voluptate, necessitatibus dolorem ratione harum facere nam deserunt ipsum illo repellat repellendus molestiae fugit quam id in quaerat aperiam! Porro culpa veritatis consectetur tempore placeat commodi aut. Error fuga numquam autem! Culpa quasi at quae aperiam quos corporis dolores quisquam cupiditate, consequuntur accusamus mollitia eius itaque quam laudantium id consequatur illum, et perspiciatis. Minus cum porro repellendus distinctio sed natus veritatis praesentium quasi, quos atque aspernatur asperiores, maxime eligendi consequatur quisquam optio fuga quis quod eveniet, vel cupiditate rem! Nam architecto inventore nisi.
                 </p>
               </section>   
           </section>
-    <footer>
+    
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+      <div class="modal-dialog">
+      
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+          </div>
+          <div class="modal-body">
+            <h1 class="modal-title text-center mb-2">Booking Form</h1>
+            <form action="">
+              <div class="form-group">
+                <input type="text" name="name" id="name" placeholder="Name:" class="form-control" required>
+                <input type="email" name="email" id="email" placeholder="Email:" class="form-control" required>
+                <input type="tel" name="tel" id="tel" placeholder="Telephone:" class="form-control" required>
+                <input type="date" name="date" id="date" placeholder="Date of Event:" class="form-control" required>
+                <textarea name="" id="content" rows="5" placeholder="Enter details of event:" class="form-control" required></textarea>
+                <button type="submit" id="submit" class="btn btn-sm">Submit</button>
+              </div>
+            </form>
+          </div>
+          <div class="modal-footer">
+            <button type="submit" class="btn btn-sm" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>     
 
+    <footer class="footer section-dark">
+      <p>copyright</p>
     </footer>
-
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

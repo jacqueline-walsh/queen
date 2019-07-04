@@ -12,6 +12,8 @@ body, html {
   background-color: #f4f4f4;
 }
 
+/*----------------------- Navigation */
+
 nav {
   z-index: 2;
 }
@@ -39,6 +41,7 @@ nav li a:active {
     transform: scale(1.1);
 }
 /*----------------------- video header */
+
 .v-header {
   height: 95vh;
   display: flex;
@@ -102,12 +105,25 @@ nav li a:active {
   text-decoration: none;
   font-size: 27px;
   letter-spacing: 8px;
-  text-transform: uppercase
+  text-transform: uppercase;
+  transition-delay: all .5s ease-in-out;
+}
+
+.btn:hover {
+  background-color: #d8c18d;
+  opacity: .8;
+  transform: scale(1.1);
+  text-shadow: 2px 2px 2px rgb(75, 74, 74);
+}
+
+button.btn.btn-sm {
+  padding: .5rem 1rem;  
+  font-size: 17px;
 }
 
 /*------------------------------ sections */
 
-.pimg1, .pimg2, .pimg3 {
+.pimg1, .pimg2 {
   position: relative;
   opacity: 0.70;
   background-position: center;
@@ -126,11 +142,6 @@ nav li a:active {
   /* https://www.facebook.com/Queen/ */
   background-image: url('../images/image2.jpg');
   min-height: 400px;
-}
-
-.pimg3 {
-  background-image: url('../images/image3.jpg');
-  min-height: 400px;  
 }
 
 .section {
@@ -169,8 +180,27 @@ nav li a:active {
   background-color: transparent;
 }
 
+/*------------------------------ Modal */
+
+input, textarea {
+  margin-bottom: 5px;
+}
+
+.myModal {
+  background-color: #fafafa;
+  border-radius: 5px;
+}
+
+/*------------------------------ Footer */
+
+footer.footer {
+  padding: 15px;
+}
+
+/*------------------------------ Media Queries */
+
 @media(max-width: 568px) {
-.pimg1, .pimg2, .pimg3 {
+.pimg1, .pimg2 {
     background-attachment: scroll;
   }
 }
