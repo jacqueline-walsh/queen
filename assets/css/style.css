@@ -273,7 +273,8 @@ li.footer-link a {
 }
 
 .social-links li a i:hover { 
-  background: #e84610;
+  background: #d8c18d;
+  transform: scale(1.1);
 }
 
 
