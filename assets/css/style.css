@@ -43,7 +43,7 @@ nav li a:active {
 /*----------------------- video header */
 
 .v-header {
-  height: 95vh;
+  height: 100vh;
   display: flex;
   align-items: center;
   color: #fff;
@@ -147,6 +147,18 @@ button.btn.btn-sm {
 .section {
   text-align: center;
   padding: 50px 80px;
+}
+
+.section-header {
+  text-align: center;
+  color: #000;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+
+.section-header.light {
+  color: #fff;
 }
 
 .section-light {
