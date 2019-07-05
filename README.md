@@ -38,17 +38,17 @@ The user wants to book the band for a christmas party at work:
 
 All mockups have been created with Balsamiq Mockup Software
 
-- [mockup of about page](assets/mockups/home-mockup.jpg)
+- [mockup of home page](assets/mockups/home-mockup.jpg)
 
 - [mockup of about page](assets/mockups/about-mockup.jpg)
 
-- [mockup of about page](assets/mockups/photos-mockup.jpg)
+- [mockup of photo page](assets/mockups/photos-mockup.jpg)
 
-- [mockup of about page](assets/mockups/subscribe-mockup.jpg)
+- [mockup of subscribe page](assets/mockups/subscribe-mockup.jpg)
 
-- [mockup of about page](assets/mockups/music-mockup.jpg)
+- [mockup of music page](assets/mockups/music-mockup.jpg)
 
-- [mockup of about page](assets/mockups/video-mockup.jpg)
+- [mockup of video page](assets/mockups/video-mockup.jpg)
 
 
 ## Features
@@ -175,7 +175,7 @@ Text has been copied from the following sites the official Queen site. Or fictic
 
 [photos and Images - Facebook](https://www.facebook.com/Queen/)
 
-[all Other Images - Google Images](https://https://www.google.com/search?biw=2560&bih=1266&tbm=isch&sa=1&ei=EFsfXaKKK66DhbIP-5aKwAM&q=Queen+%28band%29&oq=Queen+%28band%29&gs_l=img.12...0.0..32444...0.0..0.0.0.......0......gws-wiz-img.JdKNx1SR3MU)
+[all Other Images - Google Images](https://www.google.com/search?q=queen+band+images&tbm=isch&source=univ&sa=X&ved=2ahUKEwiP0pXWgp7jAhU2WxUIHf8wDn4QsAR6BAgHEAE&biw=2560&bih=1266)
 
 [All videos - Youtube](https://www.youtube.com/results?search_query=queen)
 
