@@ -144,6 +144,7 @@ As all files have been stored on the github respository there has been no need t
 ## Credits
 
 [For inspiration for the video header - Traversy Media](https://www.youtube.com/watch?v=Xy3GlrddZFI)
+
 [For inspiration for the parallax layout - Traversy Media](https://www.youtube.com/watch?v=JttTcnidSdQ)
 
 ### Content
@@ -157,9 +158,13 @@ Text has been copied from the following sites the official Queen site. Or fictic
 <!-- - The photos used in this site were obtained from ... -->
 
 [Queen logo - uihere](https://www.uihere.com/free-cliparts/queen-musician-rock-logo-queen-band-7198373/download)
+
 [photos and Images - Facebook](https://www.facebook.com/Queen/)
-[All Other Images - Google Images](https://https://www.google.com/search?biw=2560&bih=1266&tbm=isch&sa=1&ei=EFsfXaKKK66DhbIP-5aKwAM&q=Queen+%28band%29&oq=Queen+%28band%29&gs_l=img.12...0.0..32444...0.0..0.0.0.......0......gws-wiz-img.JdKNx1SR3MU)
+
+[all Other Images - Google Images](https://https://www.google.com/search?biw=2560&bih=1266&tbm=isch&sa=1&ei=EFsfXaKKK66DhbIP-5aKwAM&q=Queen+%28band%29&oq=Queen+%28band%29&gs_l=img.12...0.0..32444...0.0..0.0.0.......0......gws-wiz-img.JdKNx1SR3MU)
+
 [All videos - Youtube](https://www.youtube.com/results?search_query=queen)
+
 [music - mp3guru](https://mp3guru.icu)
 
 ### Acknowledgements
