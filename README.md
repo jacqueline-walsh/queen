@@ -119,15 +119,24 @@ At implementation of each section of development the site has been viewed for la
 The site has also been tested using the W3C valiation tester [W3C_Validation](assets/testing/w3c-validation.png)
 - The warning for HTML5 date picker is the only comment as it may not be supported in all browsers.  Having checked this in Chrome, Firefox and Safari the only browser that does not appear to test well for this feature is Safari.  You can also use [Can I use](https://caniuse.com) to check for browser support
 
-The following links will show screenshots of testing on my mobile iphone8
+The following links will show screenshots of testing on my mobile iphone8:
+
 [home page](assets/testing/home-screen.jpg)
+
 [booking form](assets/testing/booking-form.jpg)
+
 [about page](assets/testing/about.jpg)
+
 [photos page](assets/testing/photos.jpg)
+
 [photo2 page](assets/testing/photo2.jpg)
+
 [music page](assets/testing/music.jpg)
+
 [subscribe page](assets/testing/subscribe.jpg)
+
 [video page](assets/testing/video.jpg)
+
 [footer page](assets/testing/footer.jpg)
 
 ## Deployment
