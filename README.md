@@ -38,12 +38,17 @@ The user wants to book the band for a christmas party at work:
 
 All mockups have been created with Balsamiq Mockup Software
 
-[mockup of about page](assets/mockups/home-mockup.jpg)
-[mockup of about page](assets/mockups/about-mockup.jpg)
-[mockup of about page](assets/mockups/photos-mockup.jpg)
-[mockup of about page](assets/mockups/subscribe-mockup.jpg)
-[mockup of about page](assets/mockups/music-mockup.jpg)
-[mockup of about page](assets/mockups/video-mockup.jpg)
+- [mockup of about page](assets/mockups/home-mockup.jpg)
+
+- [mockup of about page](assets/mockups/about-mockup.jpg)
+
+- [mockup of about page](assets/mockups/photos-mockup.jpg)
+
+- [mockup of about page](assets/mockups/subscribe-mockup.jpg)
+
+- [mockup of about page](assets/mockups/music-mockup.jpg)
+
+- [mockup of about page](assets/mockups/video-mockup.jpg)
 
 
 ## Features
@@ -150,7 +155,7 @@ As all files have been stored on the github respository there has been no need t
 ### Content
 <!-- - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z) -->
 Text has been copied from the following sites the official Queen site. Or ficticiously created for the purpose of the project
-[text](http://www.queenonline.com)
+[text - Queen Online](http://www.queenonline.com)
 
 
 
