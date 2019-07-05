@@ -1,8 +1,10 @@
 # Project-1 Rock Band
 
-One or two paragraphs providing an overview of your project.
+<!-- One or two paragraphs providing an overview of your project.
 
-Essentially, this part is your sales pitch.
+Essentially, this part is your sales pitch. -->
+
+The project's main focus is to promote the already established and legendry rock band, Queen.  Queen have a huge following worldwide and the website has focused on showcasing the band popularity over the centuries and providing existing and potential fans with a place to go online and book the band for an upcoming event.  While on the site fans have a chase to see past video events and listen to a selection of songs.  There is also a sign up section where fans can register for a monthly newsletter to keep better informed of upcoming events around the world.  In a nutshell this site is all about giving the fans a one stop site on all the bands news.
  
 ## UX
  

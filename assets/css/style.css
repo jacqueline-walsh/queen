@@ -25,7 +25,7 @@ nav {
 }
 
 nav li {
-  padding-left: 2rem; 
+  padding-left: 1rem; 
 }
 
 nav li a {
@@ -201,12 +201,10 @@ img.img-fluid.photo-item {
   margin: 20px;
 }
 
-
-
 /*------------------------------ Music Section */
 
 .container-audio {
-  width: 500px;
+  max-width: 500px;
   background: rgb(58,58,60);
   background: linear-gradient(90deg, rgba(58,58,60,1) 0%, rgba(244,244,244,1) 53%, rgba(58,58,60,1) 100%);
   box-shadow: 4px 4px 4px #999;
@@ -223,7 +221,8 @@ img.img-fluid.photo-item {
 /*------------------------------ Video */
 
 iframe{
-  border-width: 0px;
+  border-width: 0;
+  padding: 15px;
 }
 
 /*------------------------------ Modal */
@@ -279,7 +278,8 @@ li.footer-link a {
 
 
 /*------------------------------ Media Queries */
-@media(max-width: 568px) {
+
+@media(max-width: 900px) {
   .section {
     text-align: center;
     padding: 50px 0;
@@ -288,14 +288,15 @@ li.footer-link a {
   img.img-fluid.photo-item {
     margin-left: 0;
     width: 90%
-  }
-
-  .container-audio {
-    width: 400px;
-  }
+  } 
 }
+
 @media(max-width: 568px) {
 .pimg1, .pimg2 {
     display: none;
   }
+
+  .container-audio {
+    padding: 40px 0;
+  }  
 }
