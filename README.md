@@ -119,6 +119,8 @@ At implementation of each section of development the site has been viewed for la
 The site has also been tested using the W3C valiation tester [W3C_Validation](assets/testing/w3c-validation.png)
 - The warning for HTML5 date picker is the only comment as it may not be supported in all browsers.  Having checked this in Chrome, Firefox and Safari the only browser that does not appear to test well for this feature is Safari.  You can also use [Can I use](https://caniuse.com) to check for browser support
 
+Jigsaw.w3.org has been used for testing the css3 file which has been given a no errors found result [jigsaw css test](assets/testing/W3C-css3-validator.png)
+
 The following links will show screenshots of testing on my mobile iphone8:
 
 [home page](assets/testing/home-screen.jpg)
@@ -153,13 +155,18 @@ For the project the site has been depoloyed using the hosting platform GitHub
 
 As all files have been stored on the github respository there has been no need to change any links or alter any configuration on the project.  The site has been deployed from the github master branch.  As this was a small solo project no branches have been used.
 
+[github repository](https://github.com/jacqueline-walsh/queen)
+
 [github live website](https://jacqueline-walsh.github.io/queen/index.html)
+
 
 ## Credits
 
 [For inspiration for the video header - Traversy Media](https://www.youtube.com/watch?v=Xy3GlrddZFI)
 
 [For inspiration for the parallax layout - Traversy Media](https://www.youtube.com/watch?v=JttTcnidSdQ)
+
+[For css3 gradiants](https://cssgradient.io/)
 
 ### Content
 <!-- - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z) -->
